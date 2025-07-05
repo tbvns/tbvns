@@ -58,12 +58,4 @@ _A **Manga Exporter** for Mihon, built for E-Ink devices!_
 
 ---
 
-## ⚠️ A Note  
-
-Not all of my code is here because I don’t want AI training on my (_questionable_) code. 🤡  
-You can find the rest on my private Git. 🔒  
-[![Private Git](https://img.shields.io/badge/🔒-Private%20Git%20Hub-%23000000?style=flat)](https://git.tbvns.xyz/tbvns)  
-
----
-
 ⭐ **Thanks for visiting!** Feel free to explore, contribute, or just say hello! 😊  
