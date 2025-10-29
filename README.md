@@ -2,8 +2,7 @@
 
 ## Hello there! 👋 I'm **tbvns**  
 
-💻 A passionate *Java Developer* who loves building random projects!  
-☕ I specialize in **Java**, as it's the only language I've ever needed (so far!).  
+💻 A passionate Developer who loves building random projects!  
 🚀 Check out my creations below and feel free to reach out!  
 
 ---
