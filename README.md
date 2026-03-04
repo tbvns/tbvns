@@ -45,7 +45,7 @@ _A **Manga Exporter** for Mihon, built for E-Ink devices!_
 ## 📬 Contact Me  
 
 💬 **Let's chat!** Join my Discord community:  
-[![Discord](https://img.shields.io/badge/-Join%20My%20Server-%237289DA?style=flat&logo=discord&logoColor=white)](https://discord.gg/Vh8QAMq6BY)  
+[![Discord](https://img.shields.io/badge/-Join%20My%20Server-%237289DA?style=flat&logo=discord&logoColor=white)](https://tbvns.xyz/discord)  
 
 ---
 
