@@ -1,36 +1,5 @@
-# 🌟 Welcome to My GitHub Profile! 🌟  
-
-## Hello there! 👋 I'm **tbvns**  
-
-💻 A passionate Developer who loves building random projects!  
-🚀 Check out my creations below and feel free to reach out!  
-
----
-
-## 🛠️ My Projects  
-
-### 📦 **Tbvns's App Store**  
-_A hassle-free way to distribute my code!_  
-✨ Features:  
-- 🧩 Bundled with Java to avoid version conflicts  
-- 🔄 Simplified updates and installations  
-
----
-
-### 👻 **Ghost Trainer**  
-_Aim training overlay for shooter games (Valorant & CS:GO planned!)_  
-🎯 Features:  
-- 🖥️ Lightweight game overlay  
-- 🎮 Designed to help improve your aim  
-
----
-
-### 📖 **Kihon**  
-_A **Manga Exporter** for Mihon, built for E-Ink devices!_  
-📚 Features:  
-- 📥 Export manga to **EPUB** and **PDF**  
-- ⚡ Optimized for **E-Ink readers**  
-- 🎨 Clean and lightweight format  
+Hi! I'm TBVNS. I'm a developer that aims at creating software that is actually useful to people, and for FREE!</br>
+I'm proficient in Java, with frameworks like Spring Boot, and JavaScript with frameworks such as React/React Native.
 
 ---
 
@@ -43,10 +12,8 @@ _A **Manga Exporter** for Mihon, built for E-Ink devices!_
 ---
 
 ## 📬 Contact Me  
+[Send me an E-Mail](mailto:contact@tbvns.xyz)
 
-💬 **Let's chat!** Join my Discord community:  
 [![Discord](https://img.shields.io/badge/-Join%20My%20Server-%237289DA?style=flat&logo=discord&logoColor=white)](https://tbvns.xyz/discord)  
 
----
 
-⭐ **Thanks for visiting!** Feel free to explore, contribute, or just say hello! 😊  
